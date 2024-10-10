@@ -1,6 +1,8 @@
 # NeuroCluster
 Python Pipeline for Non-Parametric Cluster-Based Permutation Testing for Electrophysiological Signals related to Complex Behaviors
 
+This repository is a WIP in collaboration with Alexandra Fink (Saez Lab, ISMMS). Manuscript in preparation. 
+
 ## Installation
 
 ```
