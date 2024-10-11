@@ -23,3 +23,6 @@ pip install --upgrade git+pip install git+https://github.com/aliefink/NeuroClust
 ## Quick Start 
 
 ```NeuroCluster_template.ipynb```: Notebook for running cluster-based permutation test to detect encoding of continuous behavioral signals/latent model parameters.
+
+Here is a schematic of the NeuroCluster workflow: 
+![neurocluster workflow](https://github.com/christinamaher/NeuroCluster/blob/main/workflow/workflow.png)
