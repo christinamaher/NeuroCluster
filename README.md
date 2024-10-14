@@ -1,9 +1,9 @@
 # NeuroCluster
-Python pipeline for non-parametric cluster-based permutation testing for electrophysiological signals related to  latent model-based behavioral signals. 
+A Python pipeline for non-parametric cluster-based permutation testing for electrophysiological signals related to computational cognitive model variables.
 
 **Motivation**: Time-varying, continuous latent variables from computational cognitive models enable model-based neural analyses that identify how cognitive processes are encoded in the brain, informing the development of neural-inspired algorithms. However, current statistical methods for linking these variables to electrophysiological signals are limited, which may hinder the understanding of neurocomputational mechanisms. To address this methodological limitation, we propose a multivariate linear regression that leverages non-parametric cluster-based permutation testing strategy.
 
-*This repository is a WIP in collaboration with Alexandra Fink (Saez Lab, ISMMS). Manuscript in preparation.* 
+*This repository is in collaboration with Alexandra Fink (co-first author, Saez Lab, ISMMS). Manuscript in preparation.* 
 
 ## Installation
 
