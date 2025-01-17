@@ -176,7 +176,3 @@ Below is a schematic of the NeuroCluster workflow and quick summary. A more deta
 * **```create_directory()```:** Ensures the output directory exists.
 
 * **```save_plot_to_pdf()```:** Saves the generated plots to the specified directory in ```.png``` format.
-
-# Example Data
-
-This directory contains de-identified example neural (local field potential) and behavioral data for running NeuroCluster. Each electrode's neural data is stored in a separate ```.npy``` file. Behavioral data stored in ```sample_behavior.csv``` contains continuous model-based (expected value, RPE) and discrete model-free (reward outcome, condition) corresponding with the neural data provided. This example data provides users an opportunity to experiment locally with the NeuroCluster method and provides a template for formatting data to be used with this pipeline. 
